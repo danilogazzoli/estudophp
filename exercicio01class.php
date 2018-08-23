@@ -1,4 +1,6 @@
 <?php
+ /* Uso muito avançado no entanto recorrer a documentação 
+ necessária para compreender este código pode ser uma boa ideia */
 
 namespace gazzoli\PHPInfo;
 
